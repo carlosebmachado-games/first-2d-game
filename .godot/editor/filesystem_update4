@@ -1,0 +1,5 @@
+res://scenes/Main.tscn
+res://scripts/HUD.cs
+res://scripts/Main.cs
+res://scripts/Mob.cs
+res://scripts/Player.cs

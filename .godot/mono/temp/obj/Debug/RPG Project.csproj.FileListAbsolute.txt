@@ -1,0 +1,34 @@
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\RPG Project.deps.json
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\RPG Project.runtimeconfig.json
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\RPG Project.dll
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\RPG Project.pdb
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.csproj.AssemblyReference.cache
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.AssemblyInfoInputs.cache
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.AssemblyInfo.cs
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.csproj.CopyComplete
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.dll
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\refint\RPG Project.dll
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.pdb
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\RPG Project.genruntimeconfig.cache
+C:\Users\Carlos\repos\RPG-project\.godot\mono\temp\obj\Debug\ref\RPG Project.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\RPG Project.deps.json
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\RPG Project.runtimeconfig.json
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\RPG Project.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\RPG Project.pdb
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.csproj.AssemblyReference.cache
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.AssemblyInfoInputs.cache
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.AssemblyInfo.cs
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.csproj.CopyComplete
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\refint\RPG Project.dll
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.pdb
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\RPG Project.genruntimeconfig.cache
+C:\Users\Carlos\repos\first-2d-game\.godot\mono\temp\obj\Debug\ref\RPG Project.dll

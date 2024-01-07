@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4dIJC6EpIeLtaPNYoOUKR8TQnxdkD7z0S1zrrgRL+huPeHS2j7VCmrTrLqh1ZagmIXcdia6Slg31r4jUZQs/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\repos\\first-2d-game\\RPG Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
