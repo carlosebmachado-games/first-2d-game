@@ -50,10 +50,6 @@ public partial class Main : Node
 
 	private void OnMobTimerTimeout()
 	{
-		// Note: Normally it is best to use explicit types rather than the `var`
-		// keyword. However, var is acceptable to use here because the types are
-		// obviously Mob and PathFollow2D, since they appear later on the line.
-
 		// Create a new instance of the Mob scene.
 		Mob mob = MobScene.Instantiate<Mob>();
 

@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="RPG Project"
+config/name="First 2D Game"
 run/main_scene="res://scenes/Main.tscn"
 config/features=PackedStringArray("4.2", "C#", "Mobile")
 config/icon="res://icon.svg"
@@ -59,4 +59,4 @@ start_game={
 
 [rendering]
 
-renderer/rendering_method="mobile"
+renderer/rendering_method="gl_compatibility"

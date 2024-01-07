@@ -3,3 +3,6 @@ res://scripts/HUD.cs
 res://scripts/Main.cs
 res://scripts/Mob.cs
 res://scripts/Player.cs
+res://scenes/HUD.tscn
+res://scenes/Player.tscn
+res://scenes/Mob.tscn

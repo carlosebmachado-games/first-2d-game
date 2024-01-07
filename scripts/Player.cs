@@ -67,9 +67,19 @@ public partial class Player : Area2D
 		{
 			animatedSprite2D.Animation = "up";
 			animatedSprite2D.FlipV = velocity.Y > 0;
+
+			// flip sprite vertically
+			if (velocity.Y < 0)
+			{
+				animatedSprite2D.FlipV = false;
+			}
+			else
+			{
+				animatedSprite2D.FlipV = true;
+			}
 		}
 
-		// flip sprite
+		// flip sprite horizontally
 		if (velocity.X < 0)
 		{
 			animatedSprite2D.FlipH = true;
